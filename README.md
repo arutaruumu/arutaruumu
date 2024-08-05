@@ -15,13 +15,22 @@ Here are some ideas to get you started:
   <img src="https://media1.tenor.com/m/QWvcEqwGLX0AAAAd/kurumi-tokisaki-date-a-bullet.gif">
 </p>
 
-
--->
 <h1 align="center">Hi, I'm Na Arta</h1>
 <p align="center">A full stack developer and UI/UX designer with a strong interest in networking. I love creating intuitive user interfaces and developing reliable backend solutions. My work spans from concept art and animations to dynamic web projects.</p>
 <br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arutaruumu&theme=one_dark_pro)
+-->
+<h1 align="center">Hi, I'm Na Arta</h1>
+
+<p align="center">A full stack developer and UI/UX designer with a strong interest in networking. I love creating intuitive user interfaces and developing reliable backend solutions. My work spans from concept art and animations to dynamic web projects.</p>
+
+<table align="center">
+  <tr>
+    <td>A full stack developer and UI/UX designer with a strong interest in networking. I love creating intuitive user interfaces and developing reliable backend solutions. My work spans from concept art and animations to dynamic web projects.</td>
+    <td><a href="https://github.com/arutaruumu"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arutaruumu&theme=one_dark_pro" alt="Top Languages" /></a></td>
+  </tr>
+</table>
 
 # 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mephistocrw) 
