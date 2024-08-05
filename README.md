@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 <p align="center">A full stack developer and UI/UX designer with a strong interest in networking. I love creating intuitive user interfaces and developing reliable backend solutions. My work spans from concept art and animations to dynamic web projects.</p>
 <br>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arutaruumu&theme=one_dark_pro)
+
 # 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mephistocrw) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nada-satya-maharani) 
@@ -87,6 +89,7 @@ Here are some ideas to get you started:
 ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white) 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+<!--
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=arutaruumu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arutaruumu&theme=tokyonight&hide_border=false)<br/>
@@ -94,5 +97,3 @@ Here are some ideas to get you started:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=arutaruumu&icon=1&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
