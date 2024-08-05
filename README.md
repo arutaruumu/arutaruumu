@@ -22,9 +22,8 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arutaruumu&theme=one_dark_pro)
 -->
 <h1 align="center">Hi, I'm Na Arta</h1>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arutaruumu&theme=one_dark_pro" alt="Top Languages" width="400" />
 <p align="left">A full stack developer and UI/UX designer with a strong interest in networking. I love creating intuitive user interfaces and developing reliable backend solutions. My work spans from concept art and animations to dynamic web projects.</p>
-<a align="right" href="https://github.com/arutaruumu"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arutaruumu&theme=one_dark_pro" alt="Top Languages" width="400" /></a>
-
 <br>
 
 # 🌐 Socials
