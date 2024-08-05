@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 -->
 <h1 align="center">Hi, I'm Na Arta</h1>
-<p align="center">A full stack developer and UI/UX designer with a passion for networking. I enjoy creating user-friendly interfaces and robust backend solutions..</p>
+<p align="center">A full stack developer and UI/UX designer with a strong interest in networking. I love creating intuitive user interfaces and developing reliable backend solutions. My work spans from concept art and animations to dynamic web projects.</p>
 <br>
 
 # 🌐 Socials
