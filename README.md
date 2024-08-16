@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - ⚡Full Stack Development<br>
 - 🌱 UI/IUX Designer<br>
 - 📫 Database Management<br>
-<br>
+<br><br><br><br>
 
 # 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mephistocrw) 
